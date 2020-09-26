@@ -105,11 +105,14 @@ input[type="button"]
     background-color: rgb(178, 250, 217);
     border: 0px solid;
     cursor: pointer;
+
+    justify-content: center;
     
 }
 .checkbox
-{
+{   margin: auto;
     margin-left: 10px;
+    justify-content: center;
 
 
 }
