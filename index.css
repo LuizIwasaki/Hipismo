@@ -1,0 +1,23 @@
+nav
+{
+    
+    background-color: rgba(240, 131, 8, 0.7);
+    display: grid ;
+    padding: 10px;
+    place-items: center;   
+    margin-top: -7px;
+    width: 99%;
+    grid-template-columns: 300px 400px 800px;
+    
+    
+}
+
+.itens
+{
+    
+    padding: 10px;
+    color: rgb(13, 0, 164);
+    width: 90px;
+    cursor: pointer;
+    text-decoration:none;
+}
