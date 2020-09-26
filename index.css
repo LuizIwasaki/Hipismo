@@ -1,7 +1,7 @@
 nav
 {
     
-    background-color: rgba(240, 131, 8, 0.7);
+    background-color: rgba(7, 255, 201, 0.7);
     display: grid ;
     padding: 10px;
     place-items: center;   
@@ -16,8 +16,24 @@ nav
 {
     
     padding: 10px;
-    color: rgb(13, 0, 164);
+    color: rgb(255, 255, 255);
     width: 90px;
+    font-family: 'sans-serif' ;
     cursor: pointer;
     text-decoration:none;
+}
+.itens:hover{
+
+    background-color: rgba(171, 243, 231, 0.281);
+    color: rgba(245, 241, 237, 0.493);
+
+}
+#fundo
+
+{
+    position: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat absolute;
+    width: 90%;
+    height: 100%;
 }
