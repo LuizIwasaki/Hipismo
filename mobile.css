@@ -92,3 +92,24 @@ body {
     }
    
 }
+.agreed
+{
+    background-color: rgb(7, 255, 201);
+}
+input[type="button"]
+{
+    margin: auto;
+    margin-top: -200px;
+    width: 200px;
+    height: 38px;
+    background-color: rgb(178, 250, 217);
+    border: 0px solid;
+    cursor: pointer;
+    
+}
+.checkbox
+{
+    margin-left: 10px;
+
+
+}
