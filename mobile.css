@@ -7,14 +7,14 @@ nav
     margin-left: -50px;
     place-items: center;   
     margin-top: -9px;
-    width: 100%;
+    width: 109%;
     position: flex;
     grid-template-columns: auto auto auto;
     
     
 }
 body {
-    background: url("hipismo1.jpg") ;
+    
     background-size: 100%;
     background-repeat: no-repeat absolute;
     position: absolute;
@@ -80,7 +80,7 @@ body {
     background-color: rgba(7, 255, 201, 0.7);
     width: 100%;
     height: 100%;
-    margin-top: 100px;
+    margin-top: 40px;
     border: -34px;
     border-radius: 2px;
     display: inline;
@@ -115,4 +115,23 @@ input[type="button"]
     justify-content: center;
 
 
+}
+.about
+{
+    margin-top: -19px;
+    position: relative;
+ color: white;
+    background-color: rgba(182, 250, 243, 0.459);
+    height: 500px;
+    font-family: 'Segoe UI','Open Sans', 'Helvetica Neue';
+    font-style: italic;
+    font-weight: bolder;
+    width: 100%;
+    text-align: center] ;
+    display: grid;
+    margin-left: -7px;
+}
+#endpage
+{
+    background-color: teal;
 }
