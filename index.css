@@ -37,7 +37,7 @@ nav
     position: relative; 
     background-size: 100%;
     background-repeat: no-repeat absolute;
-    width: 100%%;
+    width: 8%%;
     height: 190%;
 }
 
@@ -110,4 +110,19 @@ input[type="button"]
 .agreed
 {
     background-color: rgb(7, 255, 201);
+}
+.atletas
+{
+    margin-top: 19px;
+    display: inline-block;
+    padding: 25px;
+    margin-left: -20px;
+
+}
+.color
+{
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: center;
 }
