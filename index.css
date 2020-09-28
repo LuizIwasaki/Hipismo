@@ -144,3 +144,10 @@ input[type="button"]
     width: 400px;
     text-align: center ;
 }
+.logotype
+{
+    position: relative;
+    display: inline;
+    margin-left: 30%;
+    
+}
